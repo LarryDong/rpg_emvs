@@ -38,7 +38,7 @@ public:
     float max_depth_;
 
     // Field of View
-    flota fov_;
+    float fov_;
 };
 
 
