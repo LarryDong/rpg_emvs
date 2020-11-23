@@ -1,5 +1,14 @@
 # EMVS: Event-based Multi-View Stereo
 
+
+### Comment by dongy
+1. "pip install" should be python2, use anaconda
+2. "pip install matplotlib" before visualize pointCloud
+
+
+
+
+
 [![EMVS: Event-based Multi-View Stereo](mapper_emvs/images/youtube_preview.png)](https://youtu.be/EFpZcpd9XJ0)
 
 This is the code for the 2018 IJCV paper [**EMVS: Event-Based Multi-View Stereo - 3D Reconstruction with an Event Camera in Real-Time**](http://rpg.ifi.uzh.ch/docs/IJCV17_Rebecq.pdf) by [Henri Rebecq](http://henri.rebecq.fr), [Guillermo Gallego](http://www.guillermogallego.es), [Elias Mueggler](http://rpg.ifi.uzh.ch/people_mueggler.html), and [Davide Scaramuzza](http://rpg.ifi.uzh.ch/people_scaramuzza.html).
